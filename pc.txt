@@ -1,2 +1,3 @@
 CPU: cpu core i7
 RAM: 16Gb
+Hard Disk: 2TB
