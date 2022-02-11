@@ -1,1 +1,2 @@
 CPU: cpu core i7
+RAM: 16Gb
